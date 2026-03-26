@@ -28,3 +28,4 @@ I am a Senior Android Developer with a focus on building modern, native UI with 
 - **Testable Code:** Prioritizing Unit Testing and the use of Fakes to ensure feature reliability.
 
 I am passionate about writing readable, maintainable code that follows Android's latest best practices.
+
