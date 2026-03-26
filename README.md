@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Acropetal
 I am a Senior Android Developer with a focus on building modern, native UI with Jetpack Compose and writing clean, reactive logic using Kotlin.
 
-### Technical Focus
+## Technical Focus
 - **Modern UI:** Building declarative layouts with Jetpack Compose and transitioning legacy XML-based views.
 
 - **Reactive Logic:** Managing asynchronous tasks and app state using Kotlin Coroutines and Flow.
